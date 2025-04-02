@@ -14,7 +14,7 @@ I'm a passionate **Frontend Developer** with a background in **Full-Stack Web De
 - CI/CD and **optimizing development workflows** 
 
 ## 💞️ I’m looking to collaborate on ...  
-- **Frontend projects** where I can contribute with **Vue.js, React, or Angular**  
+- **Frontend projects** where I can contribute with **Vue.js, React or Angular**  
 - **Open-source projects** related to web development  
 
 ## 📫 How to reach me ...  
