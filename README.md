@@ -26,6 +26,13 @@ She/Her
 
 ## ⚡ Fun fact:
 Debugging feels for me like being a detective in a crime movie where you are also the murderer. (But I promise I only commit code, not crimes!)
+
+Personal & Fun
+☕ I optimize workflows but still forget to drink my hot tea untill it is almost freezing. Priorities.
+
+🛠️ I am constantly fixing things, but my plants remain unimpressed with my debugging skills. 🌱💀
+
+🚀 My strong problem-solving skill says: every problem has a solution… unless it’s a CSS issue, then it has 5 solutions and none of them work in all browsers.
 <!---
 weraseemann/weraseemann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
