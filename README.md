@@ -3,18 +3,17 @@
 I'm a passionate **Frontend Developer** with a background in **Full-Stack Web Development**. I love creating **user-friendly interfaces**, working with modern **JavaScript frameworks**, and continuously learning new technologies.  
 
 ## 👀 I’m interested in ...  
-- Frontend development with **Angular, React, and Vue.js**  
+- Frontend development with **Angular, React**  
 - UX/UI design and **creating intuitive user experiences**  
 - Full-Stack development and **RESTful APIs**  
 - CI/CD and **optimizing development workflows**  
 
 ## 🌱 I’m currently learning ...  
-- **Vue.js** (Building a pet project with an existing movie database and authentication)  
 - Expanding my **UX/UI design skills**
 - CI/CD and **optimizing development workflows** 
 
 ## 💞️ I’m looking to collaborate on ...  
-- **Frontend projects** where I can contribute with **Vue.js, React or Angular**  
+- **Frontend projects** where I can contribute with **React or Angular**  
 - **Open-source projects** related to web development  
 
 ## 📫 How to reach me ...  
